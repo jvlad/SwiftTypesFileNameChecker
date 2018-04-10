@@ -1,3 +1,5 @@
+Project Status: not working, under development.
+
 To start this program you have to do next things:
 1. Install Python 3 according to your system(Just click the "next" button all times) https://www.python.org/downloads/release/python-360/
 2. Launch the command line and type this: C:\Users\User\AppData\Local\Programs\Python\Python36\python.exe C:\Users\User\AppData\Local\Programs\Python\Python36\Class-File\Swift_Beginning.py C:\Users\User\AppData\Local\Programs\Python\Python36\Class-File\Swift_Beginning.txt
